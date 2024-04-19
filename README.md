@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width: 45px; display: ; box-sizing: 33%; float:left;" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 45px; display:inline-block; box-sizing: 33%; float: right;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 45px; display:inline-block; box-sizing: 33%; float: left;"/>
 
 # E estou aprendendo:
 
