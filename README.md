@@ -2,7 +2,7 @@
 
 Sou um programador Fullstack.
 
-- 🔭 Estou aprendendo Python e C++;
+- 💻 Estou aprendendo Python e C++;
 - ⚡ Sempre procurando melhorar e desenvolver mais minhas habilidades.
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
